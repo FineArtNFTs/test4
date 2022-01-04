@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1D03A7a5036dCb02F6f5644dB6f7f555FF04fBC7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1d03a7a5036dcb02f6f5644db6f7f555ff04fbc7",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "SCP Foundation Card Collection",
+  "SYMBOL": "SCP Card",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/scpcards",
+  "SHOW_BACKGROUND": true
+}
